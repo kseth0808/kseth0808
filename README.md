@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**kseth0808/kseth0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi, I'm Kushagra Seth👋
 
 - 🔭 I’m currently working on Node Projects
 - 🌱 I’m currently learning Node
@@ -11,4 +6,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Html, Css, JavaScript, Java 
 
--->
