@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on Web Designing
 - 🤔 I’m looking for help with Sass
-- 💬 Ask me about Html, Css, JavaScript, Reactjs, Java 
+- 💬 Ask me about Html, Css, JavaScript, Reactjs, Firebase, Java 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
