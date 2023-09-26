@@ -1,4 +1,7 @@
 # Hi, I'm Kushagra Seth👋
+[![Twitter Badge](https://img.shields.io/badge/-@HarshVasisht-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HarshVasisht)](https://twitter.com/kseth0808) [![Linkedin Badge](https://img.shields.io/badge/-HarshVasisht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HarshVasisht/)](https://www.linkedin.com/in/kushagra-seth1904/) [![Gmail Badge](https://img.shields.io/badge/-HarryVasisht@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:HarryVasisht@gmail.com)](mailto:kseth0808@gmail.com)
+
+I am Harsh Vasisht (www.harsh.ai.in) 😃. I am an Indian based Junior and majoring in Artificial Intelligence from Gautam Buddha University, Greater Noida 🏫. Currently exploring, Quantum Neural Network 🧠. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseth0808&show_icons=true&theme=dark)
 - 🔭 I’m currently working on Node Projects
 - 🌱 I’m currently learning Node js
