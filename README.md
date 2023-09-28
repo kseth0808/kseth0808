@@ -1,6 +1,6 @@
 # Hi, I'm Kushagra Seth👋
 [![Twitter Badge](https://img.shields.io/badge/-@Kseth0808-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kseth0808)](https://twitter.com/kseth0808) [![Linkedin Badge](https://img.shields.io/badge/-Kushagraseth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-seth1904/)](https://www.linkedin.com/in/kushagra-seth1904/) [![Gmail Badge](https://img.shields.io/badge/-kseth0808@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kseth0808@gmail.com)](mailto:kseth0808@gmail.com)
-
+Hello there! I'm <a href="https://kushagraseth.netlify.app/" >Kushagra Seth<a/>, a web developer hailing from India. 🇮🇳 I'm currently pursuing my studies in Artificial Intelligence with a focus on Quantum Neural Networks at Gautam Buddha University in Greater Noida. 🏫
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseth0808&show_icons=true&theme=Light)
 - 🔭 I’m currently working on Node Projects
 - 🌱 I’m currently learning Node js
