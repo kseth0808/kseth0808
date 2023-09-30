@@ -3,7 +3,7 @@
  [![Gmail Badge](https://img.shields.io/badge/-kseth0808@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kseth0808@gmail.com)](mailto:kseth0808@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@Kseth0808-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kseth0808)](https://twitter.com/kseth0808) 
 
-Hello there! I'm <a href="https://kushagraseth.netlify.app/" target="_blank" >Kushagra Seth<a/>, a Web Developer hailing from India. I'm currently pursuing my studies in  Btech in Computer Science at Gautam Buddha University in Greater Noida. 🏫
+Hello there! I'm <a href="https://kushagraseth.netlify.app/>Kushagra Seth<a/>, a Web Developer hailing from India. I'm currently pursuing my studies in  Btech in Computer Science at Gautam Buddha University in Greater Noida. 🏫
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseth0808&show_icons=true&theme=Light)
 - 🔭 I’m currently working on Node Projects
